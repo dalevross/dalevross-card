@@ -1,11 +1,11 @@
-# ReverentGeek Calling Card
+# DaleVRoss Calling Card
 
 In case you ever need my information and all you have is a terminal and `npm`.
 
 ## Usage
 
 ```bash
-npx reverentgeek
+npx dalevross
 ```
 
 ## Make It Yours
@@ -29,4 +29,4 @@ For more info, check out the [official npm publish guide](https://docs.npmjs.com
 
 ## Credit
 
-Completely *borrowed* this idea from [Tierney](https://github.com/bnb/bitandbang) :)
+Completely _borrowed_ this idea from [Reverent Geek](https://github.com/reverentgeek) :)

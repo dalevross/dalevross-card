@@ -1,21 +1,50 @@
-export const artOrder = [ "avatar", "banner" ];
+export const artOrder = ["avatar", "banner"];
 
 export const profile = {
-	name: "DAVID NEAL",
-	handle: "reverentgeek",
-	bio: "David is a family man, geek, musician, illustrator, speaker, software developer, and Microsoft MVP living in North GA. He runs on a high-octane mixture of caffeine and JavaScript, and is entirely made of bacon.",
-	infoSections: [
-		{ label: "Work", value: [ "Developer Relations Engineer", "https://plaid.com" ], style: "gradient", leadingNewline: true },
-		{ label: "Handle", value: "reverentgeek", style: "yellow" },
-		{ label: "Portfolio", value: "https://reverentgeek.com", style: "yellow" },
-		{ label: "Email", value: "david@reverentgeek.com", style: "yellow" },
-		{ label: "LinkedIn", value: "https://linkedin.com/in/davidneal", style: "yellow" },
-		{ label: "GitHub", value: "https://github.com/reverentgeek", style: "yellow" },
-		{ label: "Instagram", value: "https://instagram.com/reverentgeek", style: "yellow" },
-		{ label: "Mastodon", value: "@reverentgeek@reverentgeek.com", style: "yellow" },
-		{ label: "BlueSky", value: "@reverentgeek.com", style: "yellow" },
-		{ label: "Threads", value: "@reverentgeek", style: "yellow" },
-		{ label: "X", value: "https://x.com/reverentgeek", style: "yellow" },
-		{ label: "Card", value: "npx reverentgeek", style: "orange", leadingNewline: true }
-	]
+  name: "DALE VIVIAN ROSS",
+  handle: "dalevross",
+  bio: "Dale likes numbers (and in particular pi), math, computers, and technology. He is the CTO of Ross Squared and enjoys building things that make life easier.",
+  infoSections: [
+    {
+      label: "Work",
+      value: ["CTO", "https://rosssquared.org"],
+      style: "gradient",
+      leadingNewline: true,
+    },
+    { label: "Handle", value: "dalevross", style: "yellow" },
+    {
+      label: "Portfolio",
+      value: "https://dalevross.rosssquared.org",
+      style: "yellow",
+    },
+    { label: "Email", value: "dalevross@gmail.com", style: "yellow" },
+    {
+      label: "LinkedIn",
+      value: "https://linkedin.com/in/dalevross",
+      style: "yellow",
+    },
+    { label: "GitHub", value: "https://github.com/dalevross", style: "yellow" },
+    {
+      label: "Instagram",
+      value: "https://instagram.com/dalevross",
+      style: "yellow",
+    },
+    {
+      label: "Mastodon",
+      value: [
+        "https://mastodon.social/@dalevross",
+        "https://fosstodon.org/@dalevross",
+      ],
+      style: "yellow",
+    },
+    { label: "BlueSky", value: "@dalevross.rosssquared.org", style: "yellow" },
+    { label: "Threads", value: "@dalevross", style: "yellow" },
+    { label: "X", value: "https://x.com/dalevross", style: "yellow" },
+    {
+      label: "Card",
+      value: "npx dalevross",
+      style: "orange",
+      leadingNewline: true,
+    },
+  ],
 };

@@ -1,33 +1,33 @@
 {
-	"name": "reverentgeek",
-	"version": "3.0.0",
-	"description": "My personal calling card.",
-	"main": "./bin/card.js",
-	"bin": {
-		"reverentgeek": "./bin/card.js"
-	},
-	"type": "module",
-	"scripts": {
-		"lint": "eslint bin/*.js art/*.js"
-	},
-	"keywords": [
-		"David",
-		"Neal",
-		"reverentgeek"
-	],
-	"author": "David Neal <david@reverentgeek.com> (https://reverentgeek.com)",
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/reverentgeek/reverentgeek-card.git"
-	},
-	"dependencies": {
-		"boxen": "^8.0.1",
-		"chalk": "^5.6.2",
-		"gradient-string": "^3.0.0"
-	},
-	"devDependencies": {
-		"eslint": "^9.36.0",
-		"eslint-config-reverentgeek": "^6.3.0"
-	}
+  "name": "dalevross",
+  "version": "3.1.4",
+  "description": "My personal calling card.",
+  "main": "./bin/card.js",
+  "bin": {
+    "dalevross": "./bin/card.js"
+  },
+  "type": "module",
+  "scripts": {
+    "lint": "eslint bin/*.js art/*.js"
+  },
+  "keywords": [
+    "Dale",
+    "Ross",
+    "dalevross"
+  ],
+  "author": "Dale Ross <dalevross@gmail.com> (https://dalevross.rosssquared.org)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dalevross/dalevross-card.git"
+  },
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.6.2",
+    "gradient-string": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.36.0",
+    "eslint-config-reverentgeek": "^6.3.0"
+  }
 }

@@ -29,4 +29,4 @@ For more info, check out the [official npm publish guide](https://docs.npmjs.com
 
 ## Credit
 
-Completely _borrowed_ this idea from [Reverent Geek](https://github.com/reverentgeek) :)
+Completely _borrowed_ this idea from [David Neal](https://github.com/reverentgeek/reverentgeek-card) :)
